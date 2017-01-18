@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.04.23 11:01:25.148.pas,D:\ikwell\Unit1.pas=D:\ikwell\Users.pas</Transaction>
+    <Transaction>2016.04.23 11:01:25.148.dfm,D:\ikwell\Unit1.dfm=D:\ikwell\Users.dfm</Transaction>
+    <Transaction>2016.04.23 12:12:01.393.pas,D:\ikwell\Unit1.pas=D:\ikwell\Objects.pas</Transaction>
+    <Transaction>2016.04.23 12:12:01.393.dfm,D:\ikwell\Unit1.dfm=D:\ikwell\Objects.dfm</Transaction>
+    <Transaction>2016.04.23 12:19:01.599.pas,D:\ikwell\Unit1.pas=D:\ikwell\Obj.pas</Transaction>
+    <Transaction>2016.04.23 12:19:01.599.dfm,D:\ikwell\Unit1.dfm=D:\ikwell\Obj.dfm</Transaction>
+    <Transaction>2016.04.23 13:01:03.868.pas,D:\ikwell\Unit1.pas=D:\ikwell\Reports.pas</Transaction>
+    <Transaction>2016.04.23 13:01:03.868.dfm,D:\ikwell\Unit1.dfm=D:\ikwell\Reports.dfm</Transaction>
+    <Transaction>2016.04.23 13:16:03.094.pas,D:\ikwell\Unit1.pas=D:\ikwell\Sprav.pas</Transaction>
+    <Transaction>2016.04.23 13:16:03.094.dfm,D:\ikwell\Unit1.dfm=D:\ikwell\Sprav.dfm</Transaction>
+    <Transaction>2016.05.11 12:04:06.703.pas,D:\ikwell\Unit1.pas=D:\ikwell\maps.pas</Transaction>
+    <Transaction>2016.05.11 12:04:06.703.dfm,D:\ikwell\Unit1.dfm=D:\ikwell\maps.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
